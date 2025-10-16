@@ -5,5 +5,5 @@
   "kernel_fusion": true,
   "max_batch_size": 512,
   "max_active_reqs": 514,
-  "max_seq_len": 1024
+  "max_seq_len": 2049
 }
